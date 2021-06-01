@@ -1,0 +1,10 @@
+body {
+	background-image : url(kontak.jpg) ;
+	background-size : cover;
+	height: 700px;
+}
+p {
+	text-align : center ;
+	font-size : 25px;
+	margin-top : 30px ;
+}
