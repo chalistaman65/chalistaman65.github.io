@@ -1,13 +1,13 @@
 body {
-	background-image : url(image.jpg) ;
+	background-image : url(backgroundd.jpg) ;
 	border : solid 4px ;
 	border-radius: 10px;
 	border-color :  #003d4d ;
-	background-size : cover;
 	margin-left : 30px;
 	margin-right : 30px;
 	margin-bottom : 30px;
 	margin-top : 80px;
+	background-size : 2000px ;
 }
 h3 {
 	font-size : 25px;
